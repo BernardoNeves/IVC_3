@@ -1,5 +1,4 @@
-
-# IVC_2
+# IVC_3
 
 Introdução à Visão por Computador
 

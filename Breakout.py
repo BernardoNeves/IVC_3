@@ -3,6 +3,7 @@ import tkinter as tk
 from collections import deque
 
 import Cam as Cam
+# import Cam2 as Cam
 
 class GameObject(object):
     def __init__(self, canvas, item):
